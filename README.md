@@ -1,7 +1,7 @@
 # Hi there, my name is Andry Pribadi 👋
 
 <div id="header" align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/skatter-programmer.gif" width="238"/>
+  <img src="https://cdn.dribbble.com/users/1440899/screenshots/5286905/media/818fa7163b97f01197e802fcf4f59a23.gif" width="238"/>
 <div id="badges">
   <a href="https://www.linkedin.com/in/andrypribad/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
